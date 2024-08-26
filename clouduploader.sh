@@ -26,4 +26,4 @@ if [ $upload_status -eq 0 ]; then
 else
     echo "Upload failed: $upload_output."
 exit 3
-fi
+fi 
