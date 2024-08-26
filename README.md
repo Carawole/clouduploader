@@ -8,13 +8,6 @@ This project aims to create a bash-based Command-Line Interface (CLI) tool for e
 
 ## Prerequisites
 
-. Basic understanding of Linux commands.
-. Familiarity with Bash scripting. For beginners, refer to my previous article.
-. Knowledge of a text editor
-. A terminal running Bash.
-. Basic understanding of cloud storage services, e.g., AWS S3.
-
-
 Before using CloudUploader, ensure you have the following:
 
 
@@ -56,10 +49,10 @@ touch clouduploader.sh
 chmod 744 clouduploader.sh
 ```
 
-+ Write the script using Vim:
++ Write the script using VSCode:
 
 ```bash
-vim clouduploader.sh
+code clouduploader.sh
 ```
 
   ### Script Explanation
